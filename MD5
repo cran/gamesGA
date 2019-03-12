@@ -1,4 +1,4 @@
-2e0c97c68039d0836c20b508cff9dd71 *DESCRIPTION
+11c5540cecaba516d15c99d20d630dfb *DESCRIPTION
 8c24547ad86c65df10cf1ea9dc25532d *LICENSE
 f97faa3cd9893ff3d406a13c94238277 *NAMESPACE
 4a25b8a61897d4cbf383e2d5c66a6c81 *R/crossover.R
@@ -19,9 +19,9 @@ e4a81d221f8324d5966525407dbb05a6 *man/tournament.Rd
 28911fffcf90d653fb10d76aee06d041 *src/fitness.c
 d6f33b4e429fbfd21b5fc5907c73e3ca *src/packagename_init.c
 3720b124cd2c2a4be437e3c1d3220a3b *tests/testthat.R
-1d7bde09ecd7aba4b22200858cfaee39 *tests/testthat/test-crossover.R
+605edd58f1717fabcc2dcefad48e87c5 *tests/testthat/test-crossover.R
 065ae4f808497ff71d7ce76170f62b14 *tests/testthat/test-fitness.R
 3c77eb78d862a733cba5ffe11f3b4ed4 *tests/testthat/test-gamesGA.R
 e93cdf415f47a32f187ccdab815a7c05 *tests/testthat/test-mutation.R
 59a2c31f3a8b489a16e1774eabfa638d *tests/testthat/test-sample_round.R
-c47732ca5c1ffe515dd006accd5df663 *tests/testthat/test-tournament.R
+e2f9d01cb6f5d22f3e06d0dec19ed580 *tests/testthat/test-tournament.R
